@@ -16,6 +16,7 @@ public class GitEsercizio {
      */
     public static void main(String[] args) {
       System.out.println("modifica");
+      System.out.println("ciao");
     }
     
 }
